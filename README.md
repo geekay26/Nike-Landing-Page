@@ -24,12 +24,12 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/HamzaZaidiX/nike_landing_page.git
+   git clone https://github.com/HamzaZaidiX/Nike-website-Clone.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd nike_landing_page
+   cd Nike-website-Clone
    ```
 
 3. Install dependencies:
