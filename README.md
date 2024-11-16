@@ -1,6 +1,6 @@
-# Nike Website Clone with React.js and Tailwind CSS 🏃‍♂️🥾
+# Nike Landing Page with React.js and Tailwind CSS 🏃‍♂️🥾
 
-This is a simple Nike website clone built using React.js and Tailwind CSS. The project aims to demonstrate the use of these technologies to create a responsive and visually appealing website.
+This is a simple **Nike landing page** built using **React.js and Tailwind CSS**. The project aims to demonstrate the use of these technologies to create a responsive and visually appealing website.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -11,8 +11,8 @@ This is a simple Nike website clone built using React.js and Tailwind CSS. The p
 - [Materials Used](#materials-used)
 
 ## Project Overview
-The Nike website clone is a simple React.js application that showcases a collection of shoes. It includes a header with a logo, navigation links, and a search bar. The main content area displays a grid of shoe cards, each with a thumbnail image and a clickable area to view a larger image. The footer contains social media icons and a copyright notice.
-
+**The Nike website clone is a simple React.js application that showcases a collection of shoes. It includes a header with a logo, navigation links, and a search bar. The main content area displays a grid of shoe cards, each with a thumbnail image and a clickable area to view a larger image. The footer contains social media icons and a copyright notice.
+**
 ## Features
 - Responsive design using Tailwind CSS
 - Shoe card component with thumbnail and larger image view
@@ -24,12 +24,12 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/HamzaZaidiX/Nike-website-Clone.git
+   git clone https://github.com/HamzaZaidiX/Nike-Landing-Page.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd Nike-website-Clone
+   cd Nike-Landing-Page
    ```
 
 3. Install dependencies:
