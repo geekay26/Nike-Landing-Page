@@ -1,6 +1,5 @@
 # Nike Landing Page with React.js and Tailwind CSS 🏃‍♂️🥾
 
-
 This is a simple **Nike landing page** built using **React.js and Tailwind CSS**. The project aims to demonstrate the use of these technologies to create a responsive and visually appealing website.
 
 ## Table of Contents
